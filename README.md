@@ -95,7 +95,7 @@ Full-stack pharmacy storefront with unit-based pricing (single tablet vs. strip)
 | Integrations | Cloudinary, Google Sheets API, Nodemailer |
 | Deployment | Vercel, Render, Docker |
 
-💻 [Code](https://github.com/mohsinshah12309/PharmaCare)
+ 🔗 [Live Demo](https://pharma-care-green.vercel.app/) &nbsp;|&nbsp; 💻 [Code](https://github.com/mohsinshah12309/PharmaCare)
 
 <br clear="right"/>
 
